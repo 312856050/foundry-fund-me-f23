@@ -247,3 +247,5 @@ ETH/Arbitrum/Optimism/Polygon/etc Address: 0x9680201d9c93d65a3603d2088d125e955c7
 [![Patrick Collins Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://patrickalphac.medium.com/)
 
 <!-- Testing krunchdata https://kdta.io/b6T40  -->
+
+Bye！
